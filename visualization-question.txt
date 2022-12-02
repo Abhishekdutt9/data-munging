@@ -1,0 +1,8 @@
+Question. 
+Is there a difference in the bank balances of people with a credit card and without a credit card?
+
+This question can be answered since we have the data of maximum account balances of accounts which have a credit card linked as well as accounts which don't.
+
+Answer.
+A credit card is a very important financial device which if used right can yield great benefits but if not used currectly it could be a financial disaster. 
+We can see that the accounts which have a credit card linked have a higher maximum account balance. This goes to show that back in the day, since the data is old, credit card was used by more by richer people. 
